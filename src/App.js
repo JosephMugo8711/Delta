@@ -7,6 +7,7 @@ import Home from "./pages/Home";
 import SignupPage from "./pages/SignupPage";
 import PricingPage from "./pages/PricingPage";
 import Navbar from "./components/Navbar/Navbar";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/signup" element={<SignupPage />} />
         <Route path="/pricing" element={<PricingPage />} />
       </Routes>
+      <Footer />
     </>
   );
 }
