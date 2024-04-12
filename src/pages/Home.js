@@ -5,6 +5,7 @@ import { Content } from '../components/Content/Content'
 import { heroOne } from '../data/HeroData'
 import { heroTwo } from '../data/HeroData'
 import { heroThree } from '../data/HeroData'
+import Carousel from '../components/Carousel/Carousel'
 // Hero feature content carousel
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
         <Content {...heroOne}/>
         <Content  {...heroTwo}/>
         <Content {...heroThree}/>
+        <Carousel />
     </>
 
   )
