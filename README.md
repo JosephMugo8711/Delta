@@ -1,9 +1,10 @@
-#  Delta
+#  Delta-finance
 *****
 ### Author :
 1. Mugo Joseph Wamiti 
 ****
 ## Project Description
+Providing top-notch security solutions to clients worldwide, ensuring that their data is always safe and secure. With our robust security systems, we guarantee the protection of sensitive information, offering peace of mind to our clients.
 
 ******
 *****
