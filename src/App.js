@@ -6,11 +6,13 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import SignupPage from "./pages/SignupPage";
 import PricingPage from "./pages/PricingPage";
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
     <>
       <GlobalStyle />
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/signup" element={<SignupPage />} />

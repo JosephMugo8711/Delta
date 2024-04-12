@@ -9,7 +9,7 @@
 *****
 ## SetUp Instruction
 ### Requirements
-* [Library](https://legacy.reactjs.org/)
+* [Framework](https://legacy.reactjs.org/)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 
 
